@@ -13,3 +13,6 @@ Documenting my path from Python/DBMS foundations to industry-ready AI/ML skills-
 - [ ] Week 2: Linear algebra
 - [ ] Week 3: Statistics and Calculus
 - [ ] Week 4: SQL + capstone project
+
+## Note 
+Testing branch and merge workflow
